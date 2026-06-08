@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sabino
+# José Sabino
 
 ### Senior Front-end Engineer  
 React • Next.js • TypeScript • Front-end Architecture
