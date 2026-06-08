@@ -1,13 +1,13 @@
 <div align="center">
 
-# José Sabino
+# Sabino
 
 ### Senior Front-end Engineer  
 React • Next.js • TypeScript • Front-end Architecture
 
 Building scalable front-end applications with focus on product experience, reusable components, performance, tests and maintainability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseafs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseafs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseafs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-joseafs/)
 [![GitHub](https://img.shields.io/badge/GitHub-Joseafs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joseafs)
 
 </div>
