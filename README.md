@@ -119,7 +119,8 @@ UX/Performance -> Responsive UI, loading states and scalable interfaces
 
 <div align="left">
 
-[![GitHub City](https://github.com/user-attachments/assets/a38ba3a0-f3eb-4cd7-8ab8-3ba3113753ba)](https://githubcity.io/Joseafs)
+
+[![GitHub City](https://github.com/user-attachments/assets/628dd431-cf05-48a1-b117-fddf6359b2df)](https://www.thegitcity.com/dev/joseafs)
 
 </div>
 
