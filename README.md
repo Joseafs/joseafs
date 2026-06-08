@@ -111,3 +111,18 @@ TypeScript     -> Strong typing, interfaces, services and reusable models
 Testing        -> Jest, React Testing Library, mocks and test factories
 Architecture   -> Clean Code, modular structure and maintainability
 UX/Performance -> Responsive UI, loading states and scalable interfaces
+```
+
+---
+
+## 🏙️ GitHub City
+
+<div align="left">
+
+[![GitHub City](https://github.com/user-attachments/assets/a38ba3a0-f3eb-4cd7-8ab8-3ba3113753ba)](https://githubcity.io/Joseafs)
+
+</div>
+
+<p align="center">
+A visual representation of my GitHub activity and repositories.
+</p>
